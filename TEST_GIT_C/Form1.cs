@@ -19,7 +19,7 @@ namespace TEST_GIT_C
         private void button1_Click(object sender, EventArgs e)
         {
             string Str = "HELLO WORLD !";
-            MessageBox.Show(Str, "Avviso");
+            MessageBox.Show(Str, "Avviso2");
         }
     }
 }
